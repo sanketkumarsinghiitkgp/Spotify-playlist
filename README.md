@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Reference Tutorial
+I referred to https://www.youtube.com/playlist?list=PLqGj3iMvMa4LFqyGab_aR7M0zfQm2KTuX
+.
+The aim was to learn how to fetch data from an API, use OAuth and create a react app.
 
 ## Available Scripts
 
